@@ -1,11 +1,18 @@
-#h1{
+#he1{
 
-    background-color: blue;
+    background-color: pink;
     text-align: center;
     height: 70pt;
 }
+<<<<<<< Updated upstream
 #id1 {
    display: block;
     margin: auto auto;
+=======
+#p1{
+text-align: center;
+font-size: x-large;
+
+>>>>>>> Stashed changes
 
 }
