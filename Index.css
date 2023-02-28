@@ -4,3 +4,8 @@
     text-align: center;
     height: 70pt;
 }
+#id1 {
+   display: block;
+    margin: auto auto;
+
+}
